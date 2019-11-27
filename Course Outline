@@ -1,0 +1,21 @@
+Course Outline:
+-------------------------------
+Module 1:
+	React JS, Boilerplate Elements,JSX, Imports, React DOM vs React
+	Component Classes, Instances, Rendering Targets, Component Structure
+Module 2:
+	Exports, Class based Components, Handling UI events, States, Controlled Components
+Module 3:
+	Refactoring Functional Components, Properties, Building Lists and Maps, Component and Templates
+Module 4:
+	Modelling Application State (MAS), REDUX, Reducers, Containers
+Module 5:
+	Actions and Action Creators, Binding Action, Consuming Action, Conditional Rendering
+Module 6:
+	Apps Overview and Planning, Component Setup ,Binding World,Form Elements,API
+Module 7:
+	AXIOS,REDUX Promise,List Containers
+Module 8:
+	React Routers and REDUX Forms,Setting up Routers,Route Configuration,Catching Data Life Cycle Methods,Forms
+Module 9:
+	REDUX Forms,Validations ,Dynamic Routing,Dynamic Forms,Data Loading Methods,Animations
